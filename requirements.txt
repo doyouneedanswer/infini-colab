@@ -6,3 +6,4 @@ safetensors
 rembg
 pyngrok
 Pillow
+onnxruntime
